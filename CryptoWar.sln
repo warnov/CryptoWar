@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarNov.AESManagedWrapper.Win32", "WarNov.RijndaelManagedWrapper\WarNov.AESManagedWrapper.Win32.csproj", "{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoRMWin", "Crypto RMWin\CryptoRMWin.csproj", "{BF6CC230-2E6D-447B-B0AC-634E617AFD83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarNov.AESManagedWrapper.WP7", "WarNov.AESManagedWrapper.WP7\WarNov.AESManagedWrapper.WP7.csproj", "{297514DB-BC13-4F96-9D95-AFDD8B0760CE}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs06
+		SccProjectUniqueName0 = Crypto\u0020RMWin\\CryptoRMWin.csproj
+		SccProjectName0 = Crypto\u0020RMWin
+		SccLocalPath0 = Crypto\u0020RMWin
+		SccProjectUniqueName1 = WarNov.RijndaelManagedWrapper\\WarNov.AESManagedWrapper.Win32.csproj
+		SccProjectName1 = WarNov.RijndaelManagedWrapper
+		SccLocalPath1 = WarNov.RijndaelManagedWrapper
+		SccProjectUniqueName2 = WarNov.AESManagedWrapper.WP7\\WarNov.AESManagedWrapper.WP7.csproj
+		SccProjectName2 = WarNov.AESManagedWrapper.WP7
+		SccLocalPath2 = WarNov.AESManagedWrapper.WP7
+		SccLocalPath3 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C04E89CA-0AA7-42E0-A8B0-CD9BB79444C4}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Debug|x86.ActiveCfg = Debug|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Debug|x86.Build.0 = Debug|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Release|Any CPU.ActiveCfg = Release|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Release|x86.ActiveCfg = Release|x86
+		{BF6CC230-2E6D-447B-B0AC-634E617AFD83}.Release|x86.Build.0 = Release|x86
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{297514DB-BC13-4F96-9D95-AFDD8B0760CE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
