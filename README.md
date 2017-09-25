@@ -1,7 +1,8 @@
+# CryptoWar
 CryptoWar is a class library that wraps the Rijndael Algorithm in a Password crypto utility class. It's developed in C#. It also ships an utility for auto generate passwords. It is an implementation of the Advanced Encryption Standard (AES) adopted by the US government.
  
 
-How to Use:
+How to Use It:
 -----------
 
 Just add a reference to
@@ -34,3 +35,5 @@ You can use this class in this way:
         };
         txtSS.Text = pg.Generate();
     }
+
+There are also sample projects included for you to learn how to use the library.
