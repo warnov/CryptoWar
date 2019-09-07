@@ -18,9 +18,13 @@ Or install it directly:
 How to Use It:
 -----------
 
-Just add a reference to
+Just add the reference
 
-    WarNov.RijndaelManagedWrapper
+    using WarNov.AESManagedWrapper;
+or
+   
+
+     using WarNov.AESManagedWrapper.NetStandard;
 
 and call the statics methods:
 
@@ -51,5 +55,5 @@ You can use this class in this way:
 
 There are also sample projects included for you to learn how to use the library.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTg3OTkzNl19
+eyJoaXN0b3J5IjpbLTEwODQxMDQxMTJdfQ==
 -->
