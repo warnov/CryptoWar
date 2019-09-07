@@ -42,3 +42,6 @@ You can use this class in this way:
     }
 
 There are also sample projects included for you to learn how to use the library.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc4MjE5NzA1Nl19
+-->
