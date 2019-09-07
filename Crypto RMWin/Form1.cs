@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using WarNov.AesManagedWrapper.Win32;
+using WarNov.AESManagedWrapper.NetStandard;
 
 namespace CryptoRMWin
 {
