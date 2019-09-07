@@ -4,11 +4,15 @@ CryptoWar is a class library that wraps the Rijndael Algorithm in a Password cry
 ## Nuget
 You can find this library as a Nuget package: 
 ### Net Framework
-Y[Download](http://warnov.com/@CryptoWarNuget)
-Install:
+Find it in [Nuget](http://warnov.com/@CryptoWarNuget)
+Or install it directly:
 
     PM> Install-Package AESManagedWrapper -Version 1.0.0
+### Net Standard
+Find it in [Nuget](http://warnov.com/@CryptoWarNugetNS)
+Or install it directly:
 
+    PM> Install-Package AESManagedWrapper.NetStandard -Version 1.0.0.1
  
 
 How to Use It:
@@ -47,5 +51,5 @@ You can use this class in this way:
 
 There are also sample projects included for you to learn how to use the library.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTk5NjM0OV19
+eyJoaXN0b3J5IjpbMjA4MTg3OTkzNl19
 -->
