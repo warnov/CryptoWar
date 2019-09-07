@@ -24,7 +24,7 @@ Just add the reference
 or
    
 
-     using WarNov.AESManagedWrapper.NetStandard;
+    using WarNov.AESManagedWrapper.NetStandard;
 
 and call the statics methods:
 
@@ -55,5 +55,5 @@ You can use this class in this way:
 
 There are also sample projects included for you to learn how to use the library.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQxMDQxMTJdfQ==
+eyJoaXN0b3J5IjpbLTExMzI5ODUxODJdfQ==
 -->
