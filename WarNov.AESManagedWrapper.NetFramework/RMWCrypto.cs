@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace WarNov.AesManagedWrapper.Win32
+namespace WarNov.AESManagedWrapper
 {
     public static class RMWCrypto
     {
