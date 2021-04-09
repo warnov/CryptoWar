@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>AESManagedWrapper.Net</PackageId>
+    <Product>CryptoWar</Product>
+    <Description>This is the library version for Net 5+. 
+CryptoWar is a class library that wraps the Rijndael Algorithm in a Password crypto utility class. It's developed in C#. It also ships an utility for auto generate passwords. It is an implementation of the Advanced Encryption Standard (AES) adopted by the US government.</Description>
+    <Copyright>Use it as you wish</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/warnov/CryptoWar</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/warnov/CryptoWar</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>crypto Rijndael password cryptography block cipher advanced encryption standard AES</PackageTags>
+    <PackageReleaseNotes>Net (5) release</PackageReleaseNotes>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

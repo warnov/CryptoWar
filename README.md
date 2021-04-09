@@ -13,7 +13,13 @@ Find it in [Nuget](http://warnov.com/@CryptoWarNugetNS)
 Or install it directly:
 
     PM> Install-Package AESManagedWrapper.NetStandard -Version 1.0.0.1
- 
+
+### Net (5+)
+Find it in [Nuget](http://warnov.com/@CryptoWarNugetNet)
+Or install it directly:  
+```
+PM>Install-Package AESManagedWrapper.Net -Version 1.0.1
+```
 
 How to Use It:
 -----------
