@@ -15,6 +15,7 @@ CryptoWar is a class library that wraps the Rijndael Algorithm in a Password cry
     <PackageReleaseNotes>Net (5) release</PackageReleaseNotes>
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <Version>1.0.1</Version>
+    <Authors>WarNov.AESManagedWrapper.Net</Authors>
   </PropertyGroup>
 
 </Project>

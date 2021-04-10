@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>CryptAndHash</PackageId>
+    <Description>[Net 5+]
+CryptAndHash is a package that ships an enhanced secure password hashing algorith based on the mix of SHA512 and BCrypt. It also offers two way symmetric using (AES - Rijndael Algorithm) and a utility for auto generate passwords.</Description>
+    <Authors>WarNov</Authors>
+    <PackageProjectUrl>https://github.com/warnov/CryptoWar</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/warnov/CryptoWar</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>crypto Rijndael password cryptography block cipher advanced encryption standard AES hashing sha512 bcrypt</PackageTags>
+    <PackageReleaseNotes>First Release</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />
+  </ItemGroup>
+
+</Project>
