@@ -1,6 +1,6 @@
 # CryptAndHash
 [Net 5+]
-CryptAndHash is a package that ships an enhanced secure password hashing algorith based on the mix of SHA512 and BCrypt. It also offers two way symmetric using (AES - Rijndael Algorithm) and a utility for auto generate passwords.
+CryptAndHash is a package that ships an enhanced secure password hashing algorithm based on the mix of SHA512 and BCrypt. It also offers two way symmetric using (AES - Rijndael Algorithm) and a utility for auto generate passwords.
 
 ## Nuget
 You can find this library as a Nuget package: 
